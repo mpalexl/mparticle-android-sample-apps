@@ -57,7 +57,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling:1.3.0")
     implementation("androidx.compose.runtime:runtime-livedata:1.3.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
-    implementation("androidx.core:core-ktx:1.9.0")
+    implementation("androidx.core:core-ktx:1.15.0")
     implementation("androidx.fragment:fragment:1.5.4")
     implementation("androidx.fragment:fragment-ktx:1.5.4")
     implementation("androidx.recyclerview:recyclerview:1.2.1")
