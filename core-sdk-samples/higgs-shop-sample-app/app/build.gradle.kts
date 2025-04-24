@@ -51,11 +51,11 @@ android {
 
 dependencies {
     implementation("androidx.appcompat:appcompat:1.5.1")
-    implementation("androidx.compose.runtime:runtime:1.3.0")
+    implementation("androidx.compose.runtime:runtime:1.8.0")
     implementation("androidx.compose.ui:ui:1.3.0")
     implementation("androidx.compose.material:material:1.3.0")
     implementation("androidx.compose.ui:ui-tooling:1.3.0")
-    implementation("androidx.compose.runtime:runtime-livedata:1.3.0")
+    implementation("androidx.compose.runtime:runtime-livedata:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.fragment:fragment:1.5.4")
